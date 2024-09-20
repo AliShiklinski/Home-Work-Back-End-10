@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\theatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\theatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AB84BA-EC3A-4E5F-B840-8F8D39593E24}|src\\MovieApp.DAL\\MovieApp.DAL.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AB84BA-EC3A-4E5F-B840-8F8D39593E24}|src\\MovieApp.DAL\\MovieApp.DAL.csproj|solutionrelative:src\\movieapp.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AB84BA-EC3A-4E5F-B840-8F8D39593E24}|src\\MovieApp.DAL\\MovieApp.DAL.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AB84BA-EC3A-4E5F-B840-8F8D39593E24}|src\\MovieApp.DAL\\MovieApp.DAL.csproj|solutionrelative:src\\movieapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2689D4-4D3F-4D83-AE80-0057FAD330AC}|src\\MovieApp.API\\MovieApp.API.csproj|solutionrelative:src\\movieapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|c:\\users\\aliash@code.edu.az\\source\\repos\\miniproject\\src\\movieapp.core\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E820-DEF0-40B3-8F6D-3070BB4C9D70}|src\\MovieApp.Core\\MovieApp.Core.csproj|solutionrelative:src\\movieapp.core\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:04:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\ShowTimeController.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\ShowTimeController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\ShowTimeController.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\ShowTimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:04:28.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeatReservation.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\SeatReservation.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\SeatReservation.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\SeatReservation.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\SeatReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:04:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:03:39.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TheaterController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\TheaterController.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\TheaterController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\TheaterController.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\TheaterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:52:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:50:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\User.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:16:23.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeatReservation.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\SeatReservation.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\SeatReservation.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\SeatReservation.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\SeatReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:15:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Theater.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\Theater.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\Theater.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\Theater.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\Theater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:58:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\ShowTime.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\ShowTime.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\ShowTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:14:48.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:51:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "src\\MovieApp.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:20:27.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:16:51.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\Reservation.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:15:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:57:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:20:31.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.API\\Program.cs",
+              "RelativeToolTip": "src\\MovieApp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:35:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "src\\MovieApp.Core\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\source\\repos\\MiniProject\\src\\MovieApp.Core\\Enums\\Role.cs",
+              "RelativeToolTip": "src\\MovieApp.Core\\Enums\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:18:13.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
